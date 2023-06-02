@@ -1,4 +1,3 @@
-chats = [
     "Olá", "Oi", "Como vai?", "Tudo bem?", "Qual é o seu nome?", "Qual é a sua função?",
     "O que você faz?", "Preciso de ajuda", "Como posso te ajudar?", "Obrigado", "Por favor",
     "Desculpe", "Não entendi", "Poderia repetir?", "Qual é a resposta para a pergunta fundamental?", "Eu te amo",
@@ -46,4 +45,4 @@ chats = [
     'Já vai? Até logo!',    'Você sabe se vai chover amanhã?',
     'Vamos ver o clima...',    'Entender',    'Sempre refletindo',
     'Bom dia',    'Olá ser humano! Tenha um bom dia.'
-]
+
