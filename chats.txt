@@ -31,4 +31,19 @@ chats = [
     "Verifique as taxas de juros atuais", "Encontre informações sobre seguro de vida e previdência",
     "Analise diferentes tipos de empréstimos", "Verifique as opções de investimento de longo prazo",
     "Pesquise sobre estratégias de aposentadoria"
+    'Como vai?',    'Tudo legal',    'Você pode me ajudar?',
+    'Claro que posso! Diga?',    'Você conhece ÍSIS?',
+    'Ouvi dizer que esse software é muito bom!',
+    'Rádio',    'Notícias são importantes',    'Qual é o seu nome?',
+    'Me chamo ÍSIS, muito prazer em conhecer você',
+    'Oi!',    'Olá Pessoa Humana!',    'O dia está bom',
+    'Dias assim são bons',    'Você sabe sobre muita coisa?',
+    'Posso aprender se você me ensinar',    'Como você se chama?',
+    'Me chamam de ÍSIS.',    'Quantos anos você tem?',
+    'Eu não tenho idade...',    'Você gosta?',
+    'Gosto não se discute',    'Já ouviu falar?',
+    'Depende, posso pesquisar...',    'Desligar',
+    'Já vai? Até logo!',    'Você sabe se vai chover amanhã?',
+    'Vamos ver o clima...',    'Entender',    'Sempre refletindo',
+    'Bom dia',    'Olá ser humano! Tenha um bom dia.'
 ]
