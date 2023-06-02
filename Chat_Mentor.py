@@ -45,9 +45,9 @@ trainer.train(chats)
 voz = fala.init('sapi5')
 voices = voz.getProperty('voices')
 rate = voz.getProperty('rate')
-voz.setProperty('rate', rate + 75)
+voz.setProperty('rate', rate +65)
 volume = voz.getProperty('volume')
-voz.setProperty('volume', 1.0)
+voz.setProperty('volume', 2.0)
 
 # Configuração do reconhecimento de fala
 rec = sr.Recognizer()
