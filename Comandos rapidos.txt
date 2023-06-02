@@ -1,0 +1,2 @@
+cd /d D:\OneDrive\Github\Chat_Mentor
+activate Chat_Mentor
